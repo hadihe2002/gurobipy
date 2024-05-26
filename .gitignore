@@ -1,0 +1,8 @@
+**.docx
+**.pdf
+.git
+.vscode
+**/__pycache__
+cplex.log
+**.png
+**.tmp
